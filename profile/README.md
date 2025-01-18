@@ -61,8 +61,7 @@
 | **소비 / 소득**        | [통계청 지역소득 통계](https://kostat.go.kr/statDesc.es?act=view&mid=a10501010000&sttr_cd=S011001)           | 주거인구 기준 지역 소득 데이터를 제공합니다.                                              |
 |                       | [국민연금공단_연령별 가입종별 평균소득월액](https://www.data.go.kr/data/15094029/fileData.do)                | 국민연금 가입자의 연령별 평균 소득 데이터를 제공합니다.                                     |
 |                       | [전국 시군구 단위 평균 소득](https://kimhongsi.tistory.com/entry/%EA%B3%B5%EA%B0%84-%EC%9E%90%EB%A3%8C-2024-%EC%A0%84%EA%B5%AD-%EC%B5%9C%EC%8B%A0-%EC%8B%9C%EA%B5%B0%EA%B5%AC-%EA%B0%95%EC%9B%90%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84-%EC%A0%84%EB%B6%81%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84-%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C-%EA%B5%B0%EC%9C%84%EA%B5%B0-%ED%8F%AC%ED%95%A8) | 시군구 단위 평균 소득 데이터를 제공합니다.                                                |
-| **상권 / 상가 업소**    | [소상공인시장진흥공단 API](https://www.data.go.kr/data/15012005/openapi.do)                                  | 상권 및 상가 업소 정보를 제공합니다.                                                      |
-|                       | [문화빅데이터 플랫폼](https://www.bigdata-culture.kr/bigdata/user/data_market/detail.do?id=75ab3e79-6f9b-4d80-934b-07746d384096) | 2024년 11월 기준 상권 데이터를 제공합니다.                                               |
+
 ---
 
 ## 🛠️ 기술 스택
