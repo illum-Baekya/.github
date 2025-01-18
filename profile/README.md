@@ -36,8 +36,6 @@
 🧍‍♂️ **유동인구**<br>
 👨‍💼 **직장인구**<br>
 🏡 **주거인구**<br>
-🏪 **주변 업소 종류 및 개수**<br>
-💰 **평균 매출**<br>
 💵 **소득**<br>
 
 ### 2. 결과 확인
@@ -55,9 +53,6 @@
 | **주거인구**          | [SGIS API](https://sgis.kostat.go.kr/developer/html/newOpenApi/api/dataApi/census.html#searchPopulation)      | 행정구역별 인구수 및 평균 나이를 반환합니다.                                                |
 |                       | [행정동별 연령별 인구현황](https://jumin.mois.go.kr/ageStatMonth.do#none)                                     | 행정동별 연령별 인구현황을 제공합니다.                                                     |
 |                       | [주거인구](https://www.bigdata-map.kr/search/1845969)                                                        | 주거인구 관련 데이터를 제공합니다.                                                        |
-| **주변 업소 종류 및 개수** | [소상공인시장진흥공단_상가(상권)정보_API](https://www.data.go.kr/data/15012005/openapi.do#/tab_layer_prcuse_exam) | 상권 내 업소 종류 및 개수를 제공합니다.                                                    |
-|                       | [SGIS API - 업종별 통계](https://sgis.kostat.go.kr/developer/html/newOpenApi/api/dataApi/census.html#company) | 업종별 통계 데이터를 제공합니다.                                                          |
-| **평균 매출**          | [공정거래위원회 API](https://www.data.go.kr/data/15110302/openapi.do)                                        | 지역별 업종별 평균 매출액을 제공합니다.                                                    |
 | **소비 / 소득**        | [통계청 지역소득 통계](https://kostat.go.kr/statDesc.es?act=view&mid=a10501010000&sttr_cd=S011001)           | 주거인구 기준 지역 소득 데이터를 제공합니다.                                              |
 |                       | [국민연금공단_연령별 가입종별 평균소득월액](https://www.data.go.kr/data/15094029/fileData.do)                | 국민연금 가입자의 연령별 평균 소득 데이터를 제공합니다.                                     |
 |                       | [전국 시군구 단위 평균 소득](https://kimhongsi.tistory.com/entry/%EA%B3%B5%EA%B0%84-%EC%9E%90%EB%A3%8C-2024-%EC%A0%84%EA%B5%AD-%EC%B5%9C%EC%8B%A0-%EC%8B%9C%EA%B5%B0%EA%B5%AC-%EA%B0%95%EC%9B%90%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84-%EC%A0%84%EB%B6%81%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84-%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C-%EA%B5%B0%EC%9C%84%EA%B5%B0-%ED%8F%AC%ED%95%A8) | 시군구 단위 평균 소득 데이터를 제공합니다.                                                |
