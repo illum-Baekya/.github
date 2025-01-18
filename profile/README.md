@@ -29,13 +29,13 @@
 ## 📌 주요 기능
 
 ### 1. 조건 선택
-- 다양한 기준으로 상권을 분석할 수 있습니다:
-  1. 🧍‍♂️ **유동인구** 
-  2. 👨‍💼 **직장인구**
-  3. 🏡 **주거인구**
-  4. 🏪 **주변 업소 종류 및 개수** 
-  5. 💰 **평균 매출** 
-  6. 💵 **소득** 
+- 다양한 기준으로 상권을 분석할 수 있습니다 <br>
+  🧍‍♂️ **유동인구** <br>
+  👨‍💼 **직장인구** <br>
+  🏡 **주거인구** <br>
+  🏪 **주변 업소 종류 및 개수** <br>
+  💰 **평균 매출** <br>
+  💵 **소득** <br>
 
 ### 2. 결과 확인
 - **리스트** 형태로 조건별 상권 데이터 제공 및 추천률(%) 제공
@@ -45,8 +45,40 @@
 
 ## 🛠️ 기술 스택
 
-- **백엔드**: Java, Spring Boot
-- **프론트엔드**: Flutter
-- **데이터 전처리**: Python
-- **지도 서비스 연동**: Naver Map API
-- **배포**: AWS
+<table>
+  <thead>
+    <tr>
+      <th align="center">⚙️ Backend</th>
+      <th align="center">🎨 Frontend</th>
+      <th align="center">📊 AI</th>
+      <th align="center">☁️ Deployment</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="top" align="center">
+        <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/><br>
+        <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/><br>
+        <img src="https://img.shields.io/badge/jpa-007396?style=flat-square&logo=&logoColor=white"/><br>
+        <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/><br>
+        <img src="https://img.shields.io/badge/security-6DB33F?style=flat-square&logo=&logoColor=white"/><br>
+        <img src="https://img.shields.io/badge/jjwt-000000?style=flat-square&logo=&logoColor=white"/><br>
+        <img src="https://img.shields.io/badge/opencsv-00599C?style=flat-square&logo=&logoColor=white"/>
+      </td>
+      <td valign="top" align="center">
+        <img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+      </td>
+      <td valign="top" align="center">
+        <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/><br>
+        <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/><br>
+        <img src="https://img.shields.io/badge/googlecolab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/><br>
+        <img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white"/><br>
+        <img src="https://img.shields.io/badge/arima-0091EA?style=flat-square&logo=&logoColor=white"/>
+      </td>
+      <td valign="top" align="center">
+        <img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+      </td>
+    </tr>
+  </tbody>
+</table> 
+
